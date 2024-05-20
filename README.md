@@ -6,18 +6,18 @@
 
 #### Cách cài đặt:
 ##### Tải dự án về máy:
-'''bash 
+```bash 
     git clone https://github.com/TuanThanh2004/vehicle_license_plate_recognition_project.git
-'''
+```
 ##### Vào thư mục dự án:
-'''bash
+```bash
     cd vehicle_license_plate_recognition_project
-'''
+```
 ##### Cài đặt thư viện cần thiết:
-'''bash
+```bash
     pip install -r ./packages.txt
-'''
+```
 ##### Chạy dự án:
-'''bash
+```bash
     python webcam.py
-'''
+```
