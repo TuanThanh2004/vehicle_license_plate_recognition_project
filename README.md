@@ -21,3 +21,19 @@
 ```bash
     python webcam.py
 ```
+
+##### Dữ liệu trong dự án trên:
+```bash
+    https://drive.google.com/file/d/1xchPXf7a1r466ngow_W_9bittRqQEf_T/view?usp=sharing
+    https://drive.google.com/file/d/1bPux9J0e1mz-_Jssx4XX1-wPGamaS8mI/view?usp=sharing
+```
+
+
+##### Dự án trên dùng yolov5:
+```bash
+    # Nhận diện khung biển số
+    training/Plate_detection.ipynb     
+    # Nhận dạng kí tự biển số 
+    training/Letter_detection.ipynb
+```
+
