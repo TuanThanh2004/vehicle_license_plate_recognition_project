@@ -36,4 +36,3 @@
     # Nhận dạng kí tự biển số 
     training/Letter_detection.ipynb
 ```
-
